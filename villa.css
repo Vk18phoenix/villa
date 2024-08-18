@@ -1,0 +1,92 @@
+body{
+    background: url(./Villa2.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.img1{
+    width: 50px;
+}
+.img2{
+    padding-left: 2rem;
+    width: 50px;
+}
+.img3{
+    width: 50px;
+}
+.img4{
+    width: 50px;
+}
+.img5{
+    width: 50px;
+}
+.img6{
+    width: 40px;
+    display: block;
+}
+.D{
+    display: inline;
+    display: flex;
+}
+.head{
+    background-color: white;
+    color: #A9A9A9;
+    display: flex;
+    justify-content: space-between;
+}
+.para1{
+    display: inline;
+    justify-content: space-between;
+}
+.para2{
+    padding-left: 1rem;
+    display: inline-block;
+    justify-content: space-between;
+}
+.Subheader {
+    display: block; /* Make subheader a flexible container */
+    justify-content: space-between; /* Distribute elements evenly */
+    align-items: center; /* Vertically center content */
+    background-color: white; /* Set background color for subheader */
+    padding: 1rem 2rem; /* Add some padding for spacing */ /* Adjust as needed */
+  }
+  
+  .Subheader h1 {
+    margin: 0; /* Remove default margin from heading */
+    font-size: 1.5rem; /* Adjust font size as desired */
+    display: inline;
+    justify-content: space-between;
+  }
+  #line{
+    color: black;
+  }
+  .nav{
+    padding-left: 65rem;
+    display: inline;
+    justify-content: space-between;
+    word-spacing: 10px;
+  }
+  .H{
+    color: orangered;
+  }
+  #P{
+    color: black;
+  }
+  #PD{
+    color: black;
+  }
+  #CU{
+    color: black;
+  }
+  #text{
+    background-color: white;
+    color: orangered;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+ }
+ .H1{
+    text-align: left;
+    padding-left: 20rem;git sta
+    color: white;
+ }
